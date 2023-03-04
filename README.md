@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Arati Surwase 👋
 
 <!--
 **ARATI1S/ARATI1S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
