@@ -1,6 +1,6 @@
 ### Hi there, I'm [Arati Surwase] 👋
 
-I am a third year IT candidate at [Pune University], Pune. Apart from that I am seasonal Web developer that loves creating web pages and contributing to open source.
+I am completed my B.E. in Information Technology from SPPU, Pune with 8.81 CGPA. Apart from that I am seasonal Web developer that loves creating web pages and contributing to open source.
 
  **I am open to**:
 
@@ -17,6 +17,8 @@ I am a third year IT candidate at [Pune University], Pune. Apart from that I am 
 ![Html]
 ![css]
 ![javascript]
+LARAVEL
+Php
 
 #### Database
 
